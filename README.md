@@ -1,3 +1,3 @@
 # Project
-This is my first project.<br>
-Hi! this is sathvik reddy.
+Hi! this is sathvik reddy.<br>
+This project aims to construct an Amazon clone utilizing HTML and CSS.
